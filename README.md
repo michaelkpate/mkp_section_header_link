@@ -17,7 +17,7 @@
 <p>Example</p>
 </h1>
 <p>
-<p><span style="padding: 10px; border: 1px solid #999; background: #eee; display: block; margin: 10px 0 0 0; text-indent: 0; text-align: left; color: #600;width:600px;"><code>&lt;txp:mkp_header_link flavor=“atom” /&amp;gt;</code></span><br /></p>
+<p><span style="padding: 10px; border: 1px solid #999; background: #eee; display: block; margin: 10px 0 0 0; text-indent: 0; text-align: left; color: #600;width:600px;"><code>&lt;txp:mkp_header_link flavor=“atom” &gt;</code></span><br /></p>
 </p>
 <h1>
 <p>&lt;txp:mkp_section_header_link &gt;</p>
@@ -35,7 +35,7 @@
 <p>Example</p>
 </h1>
 <p>
-<p><span style="padding: 10px; border: 1px solid #999; background: #eee; display: block; margin: 10px 0 0 0; text-indent: 0; text-align: left; color: #600;width:600px;"><code>&lt;txp:mkp_section_header_link section=“article” /&amp;gt;</code></span><br /></p>
+<p><span style="padding: 10px; border: 1px solid #999; background: #eee; display: block; margin: 10px 0 0 0; text-indent: 0; text-align: left; color: #600;width:600px;"><code>&lt;txp:mkp_section_header_link section=“article” &gt;</code></span><br /></p>
 </p>
 <h1>
 <p>Changelog</p>
