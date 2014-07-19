@@ -1,74 +1,56 @@
 <h1>
-Summary
-
+<p>Summary</p>
 </h1>
 <p>
-Creates a link to feed for use in the header portion of an xhtml page.
-
+<p>Creates a link to feed for use in the header portion of an xhtml page.</p>
 </p>
 <h1>
-\<txp:mkp\_header\_link /&gt;
-
+<p>&lt;txp:mkp_header_link /&amp;gt;</p>
 </h1>
 <h1>
-Attribute
-
+<p>Attribute</p>
 </h1>
 <h2>
-flavor: rss (default), atom
-
+<p>flavor: rss (default), atom</p>
 </h2>
 <h1>
-Example
-
+<p>Example</p>
 </h1>
 <p>
-<span style="padding: 10px; border: 1px solid #999; background: #eee; display: block; margin: 10px 0 0 0; text-indent: 0; text-align: left; color: #600;width:600px;"><code>\<txp:mkp\_header\_link flavor=“atom” /&gt;</code></span><br />
-
+<p><span style="padding: 10px; border: 1px solid #999; background: #eee; display: block; margin: 10px 0 0 0; text-indent: 0; text-align: left; color: #600;width:600px;"><code>&lt;txp:mkp_header_link flavor=“atom” /&amp;gt;</code></span><br /></p>
 </p>
 <h1>
-\<txp:mkp\_section\_header\_link /&gt;
-
+<p>&lt;txp:mkp_section_header_link /&amp;gt;</p>
 </h1>
 <h1>
-Attributes
-
+<p>Attributes</p>
 </h1>
 <h2>
-flavor: rss (default), atom
-
+<p>flavor: rss (default), atom</p>
 </h2>
 <h2>
-section: NULL (default), [site section]
-
+<p>section: NULL (default), [site section]</p>
 </h2>
 <h1>
-Example
-
+<p>Example</p>
 </h1>
 <p>
-<span style="padding: 10px; border: 1px solid #999; background: #eee; display: block; margin: 10px 0 0 0; text-indent: 0; text-align: left; color: #600;width:600px;"><code>\<txp:mkp\_section\_header\_link section=“article” /&gt;</code></span><br />
-
+<p><span style="padding: 10px; border: 1px solid #999; background: #eee; display: block; margin: 10px 0 0 0; text-indent: 0; text-align: left; color: #600;width:600px;"><code>&lt;txp:mkp_section_header_link section=“article” /&amp;gt;</code></span><br /></p>
 </p>
 <h1>
-Changelog
-
+<p>Changelog</p>
 </h1>
 <ul>
 <li>
-v0.9 – First release.
-
+<p>v0.9 – First release.</p>
 </li>
 <li>
-v0.91 – Added ability to link to feed for current section. (never released)
-
+<p>v0.91 – Added ability to link to feed for current section. (never released)</p>
 </li>
 <li>
-v0.92 – Added ability to link to feed for any section.
-
+<p>v0.92 – Added ability to link to feed for any section.</p>
 </li>
 <li>
-v0.93 – Deprecated: current and section attributes for \<txp:mkp\_header\_link /&gt; ; added \<txp:mkp\_section\_header\_link /&gt;.
-
+<p>v0.93 – Deprecated: current and section attributes for &lt;txp:mkp_header_link /&amp;gt; ; added &lt;txp:mkp_section_header_link /&amp;gt;.</p>
 </li>
 </ul>
