@@ -10,7 +10,7 @@
 
 	<h1>Example</h1>
 
-	<p><span style="padding: 10px; border: 1px solid #999; background: #eee; display: block; margin: 10px 0 0 0; text-indent: 0; text-align: left; color: #600;width:600px;"><code>&lt;txp:mkp_header_link flavor="atom" /&gt;</code></span><br /></p>
+	<p><span style="padding: 10px; border: 1px solid #999; background: #eee; display: block; margin: 10px 0 0 0; text-indent: 0; text-align: left; color: #600;width:600px;"><code><txp:mkp_header_link flavor="atom" ></code></span><br /></p>
 
 	<h1>&lt;txp:mkp_section_header_link /&gt;</h1>
 
