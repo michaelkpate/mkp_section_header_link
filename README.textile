@@ -2,16 +2,6 @@
 
 	<p>Creates a link to feed for use in the header portion of an xhtml page.</p>
 
-	<h1>&lt;txp:mkp_header_link /&gt;</h1>
-
-	<h1>Attribute</h1>
-
-	<h2>flavor: rss (default), atom</h2>
-
-	<h1>Example</h1>
-
-	<p><span style="padding: 10px; border: 1px solid #999; background: #eee; display: block; margin: 10px 0 0 0; text-indent: 0; text-align: left; color: #600;width:600px;"><code><txp:mkp_header_link flavor="atom" /></code></span><br /></p>
-
 	<h1>&lt;txp:mkp_section_header_link /&gt;</h1>
 
 	<h1>Attributes</h1>
